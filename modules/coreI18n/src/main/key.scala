@@ -2277,6 +2277,7 @@ object I18nKey:
     val `yourScore`: I18nKey = "yourScore"
     val `language`: I18nKey = "language"
     val `allLanguages`: I18nKey = "allLanguages"
+    val `searchLanguage`: I18nKey = "searchLanguage"
     val `background`: I18nKey = "background"
     val `theme`: I18nKey = "theme"
     val `light`: I18nKey = "light"

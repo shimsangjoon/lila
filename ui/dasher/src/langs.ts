@@ -1,4 +1,6 @@
-import { h, type VNode } from 'snabbdom';
+import { type VNode } from 'snabbdom';
+
+import { hl, bindNonPassive } from 'lib/view';
 
 import { licon } from 'lib/licon';
 
@@ -17,27 +19,47 @@ export interface LangsData {
 }
 
 export class LangsCtrl extends PaneCtrl {
+  private searchInput: string = '';
+
   render = (): VNode =>
-    h('div.sub.langs', [
+    hl('div.sub.langs', [
       header(i18n.site.language, this.close),
-      h(
+      hl(
         'form',
-        { attrs: { method: 'post', action: '/translation/select' } },
-        this.list().map(([code, name]: Lang) =>
-          h(
-            'button',
+        {
+          attrs: { method: 'post', action: '/translation/select' },
+          on: { submit: e => e.preventDefault() },
+        },
+        [
+          hl(
+            'input',
             {
-              class: {
-                current: this.isCurrent(code),
-                accepted: this.isAccepted(code),
-              },
-              attrs: { type: 'submit', name: 'lang', value: code, title: code },
+              attrs: { type: 'search', name: 'search', placeholder: i18n.site.searchLanguage },
+              hook: bindNonPassive('input', (e: Event) => {
+                e.preventDefault();
+                const val = (e.target as HTMLInputElement).value;
+                this.searchInput = val;
+                this.redraw();
+              }, this.redraw),
             },
-            name,
+            '',
           ),
-        ),
+          this.filteredList().map(([code, name]: Lang) =>
+            hl(
+              'button',
+              {
+                class: {
+                  current: this.isCurrent(code),
+                  accepted: this.isAccepted(code),
+                },
+                attrs: { type: 'submit', name: 'lang', value: code, title: code },
+              },
+              name,
+            ),
+          ),
+        ],
       ),
-      h(
+      hl(
         'a.help.text',
         { attrs: { href: 'https://crowdin.com/project/lichess', 'data-icon': licon.Heart } },
         'Help translate Lichess',
@@ -55,4 +77,11 @@ export class LangsCtrl extends PaneCtrl {
     ...this.data.list.filter(([code, _]) => this.isCurrent(code) || this.isAccepted(code)),
     ...this.data.list,
   ];
+
+  private readonly filteredList = (): Lang[] => {
+    const all = this.list();
+    if (!this.searchInput) return all;
+    const query = this.searchInput.toLowerCase();
+    return all.filter(([, name]) => name.toLowerCase().includes(query));
+  };
 }

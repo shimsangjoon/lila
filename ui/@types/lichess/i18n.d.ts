@@ -4421,6 +4421,8 @@ interface I18n {
     scrollOverComputerVariationsToPreviewThem: string;
     /** Search */
     search: string;
+    /** Search language */
+    searchLanguage: string;
     /** Search or start new conversation */
     searchOrStartNewDiscussion: string;
     /** Search time */
