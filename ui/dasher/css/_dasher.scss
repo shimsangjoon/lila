@@ -65,15 +65,26 @@
     form {
       max-height: 400px;
       overflow: auto;
+      display: flex;
+      flex-direction: column;
 
-      button {
-        display: block;
-        padding: 0.7rem 0.7rem 0.7rem 1rem;
-        width: 100%;
-        text-align: left;
+      .input {
+        margin-bottom: 10px;
+      }
 
-        &:hover {
-          background: $c-dasher-light;
+      .langs {
+        flex: 1;
+        overflow: auto;
+
+        button {
+          display: block;
+          padding: 0.7rem 0.7rem 0.7rem 1rem;
+          width: 100%;
+          text-align: left;
+
+          &:hover {
+            background: $c-dasher-light;
+          }
         }
       }
     }

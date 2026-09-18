@@ -21,7 +21,7 @@ export interface LangsData {
 export class LangsCtrl extends PaneCtrl {
   private searchInput: string = '';
 
-  render = (): VNode =>
+render = (): VNode =>
     hl('div.sub.langs', [
       header(i18n.site.language, this.close),
       hl(
@@ -34,7 +34,13 @@ export class LangsCtrl extends PaneCtrl {
           hl(
             'input',
             {
-              attrs: { class: 'form-control', type: 'search', name: 'search', placeholder: i18n.site.searchLanguage },
+              attrs: {
+                class: 'form-control',
+                type: 'search',
+                name: 'search',
+                style: 'border-radius: 0px',
+                placeholder: i18n.site.searchLanguage,
+              },
               hook: bindNonPassive('input', (e: Event) => {
                 e.preventDefault();
                 const val = (e.target as HTMLInputElement).value;
@@ -44,17 +50,20 @@ export class LangsCtrl extends PaneCtrl {
             },
             '',
           ),
-          this.filteredList().map(([code, name]: Lang) =>
-            hl(
-              'button',
-              {
-                class: {
-                  current: this.isCurrent(code),
-                  accepted: this.isAccepted(code),
+          hl(
+            'div.langs',
+            this.filteredList().map(([code, name]: Lang) =>
+              hl(
+                'button',
+                {
+                  class: {
+                    current: this.isCurrent(code),
+                    accepted: this.isAccepted(code),
+                  },
+                  attrs: { type: 'submit', name: 'lang', value: code, title: code },
                 },
-                attrs: { type: 'submit', name: 'lang', value: code, title: code },
-              },
-              name,
+                name,
+              ),
             ),
           ),
         ],
