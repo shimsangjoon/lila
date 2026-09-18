@@ -801,6 +801,7 @@
   <string name="anonymous">אנונימי</string>
   <string name="yourScore">התוצאה שלך: %s</string>
   <string name="language">שפה</string>
+  <string name="searchLanguage">חפש שפה</string>
   <string name="allLanguages">כל השפות</string>
   <string name="background">רקע</string>
   <string name="light">בהיר</string>

@@ -775,6 +775,7 @@
   <string name="anonymous">અનામી</string>
   <string name="yourScore">તમારો સ્કોર: %s</string>
   <string name="language">ભાષા</string>
+  <string name="searchLanguage">Search language</string>
   <string name="allLanguages">બધી ભાષાઓ</string>
   <string name="background">પૃષ્ઠભૂમિ</string>
   <string name="light">સફેદ</string>

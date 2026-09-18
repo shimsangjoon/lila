@@ -780,6 +780,7 @@ trò chuyện trong ván đấu và có một URL có thể chia sẻ công khai
   </plurals>
   <string name="yourScore">Điểm của bạn: %s</string>
   <string name="language">Ngôn ngữ</string>
+  <string name="searchLanguage">Tìm kiếm ngôn ngữ</string>
   <string name="allLanguages">Tất cả ngôn ngữ</string>
   <string name="background">Nền</string>
   <string name="theme">Giao diện</string>

@@ -719,6 +719,7 @@
   <string name="anonymous">Hindi kilala</string>
   <string name="yourScore">Ang iyong marka: %s</string>
   <string name="language">Wika</string>
+  <string name="searchLanguage">Search language</string>
   <string name="allLanguages">Lahat ng wika</string>
   <string name="background">Likuran</string>
   <string name="light">Liwanag</string>

@@ -898,6 +898,7 @@ Partie rankingowe zwiększą stabilność rankingu.</string>
   </plurals>
   <string name="yourScore">Twój wynik: %s</string>
   <string name="language">Język</string>
+  <string name="searchLanguage">Szukaj języka</string>
   <string name="allLanguages">Wszystkie języki</string>
   <string name="background">Tło</string>
   <string name="theme">Motyw</string>

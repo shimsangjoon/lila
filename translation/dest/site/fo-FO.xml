@@ -645,6 +645,7 @@
   <string name="anonymous">Dulnevnt</string>
   <string name="yourScore">Títt stigatal: %s</string>
   <string name="language">Mál</string>
+  <string name="searchLanguage">Search language</string>
   <string name="background">Bakgrund</string>
   <string name="light">Ljóst</string>
   <string name="dark">Myrkt</string>

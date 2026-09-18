@@ -727,6 +727,7 @@
   <string name="anonymous">Անանուն</string>
   <string name="yourScore">Ձեր հաշիվը՝ %s</string>
   <string name="language">Լեզու</string>
+  <string name="searchLanguage">Պատասխանել լեզու</string>
   <string name="background">Ֆոն</string>
   <string name="light">Բաց</string>
   <string name="dark">Մուգ</string>

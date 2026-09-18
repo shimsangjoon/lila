@@ -819,6 +819,7 @@
   </plurals>
   <string name="yourScore">Pisteesi: %s</string>
   <string name="language">Kieli</string>
+  <string name="searchLanguage">Etsi kieli</string>
   <string name="allLanguages">Kaikki kielet</string>
   <string name="background">Tausta</string>
   <string name="theme">Teema</string>

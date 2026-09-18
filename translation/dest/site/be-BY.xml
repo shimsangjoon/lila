@@ -804,6 +804,7 @@
   <string name="anonymous">Ананімны гулец</string>
   <string name="yourScore">Ваш лік: %s</string>
   <string name="language">Мова</string>
+  <string name="searchLanguage">Пошукаць мову</string>
   <string name="allLanguages">Усе мовы</string>
   <string name="background">Фон</string>
   <string name="light">Светлы</string>

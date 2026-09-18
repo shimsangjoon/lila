@@ -807,6 +807,7 @@ arvutianalüüsi, mängu jututoa ning jagatava URL-i.</string>
   </plurals>
   <string name="yourScore">Sinu skoor: %s</string>
   <string name="language">Keel</string>
+  <string name="searchLanguage">Otsing keel</string>
   <string name="allLanguages">Kõik keeled</string>
   <string name="background">Taust</string>
   <string name="theme">Teema</string>

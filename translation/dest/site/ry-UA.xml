@@ -532,6 +532,7 @@
   <string name="lobby">Чекарня</string>
   <string name="anonymous">Анонім</string>
   <string name="language">Бисїда</string>
+  <string name="searchLanguage">Search language</string>
   <string name="light">Світлый</string>
   <string name="dark">Темный</string>
   <string name="pieceSet">Тема фіґур</string>

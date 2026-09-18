@@ -709,6 +709,7 @@
   <string name="anonymous">Anonim</string>
   <string name="yourScore">Hesab: %s</string>
   <string name="language">Dil</string>
+  <string name="searchLanguage">Dil axtarın</string>
   <string name="background">Arxa fon</string>
   <string name="light">Yüngül</string>
   <string name="dark">Qaranlıq</string>

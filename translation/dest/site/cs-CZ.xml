@@ -887,6 +887,7 @@
   </plurals>
   <string name="yourScore">Vaše skóre: %s</string>
   <string name="language">Jazyk</string>
+  <string name="searchLanguage">Hledat jazyk</string>
   <string name="allLanguages">Všechny jazyky</string>
   <string name="background">Pozadí</string>
   <string name="theme">Motiv</string>

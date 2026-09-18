@@ -825,6 +825,7 @@
   </plurals>
   <string name="yourScore">Твој скор: %s</string>
   <string name="language">Језик</string>
+  <string name="searchLanguage">Pretraži jezik</string>
   <string name="allLanguages">Сви језици</string>
   <string name="background">Позадина</string>
   <string name="theme">Тема</string>

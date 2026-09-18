@@ -799,6 +799,7 @@
   </plurals>
   <string name="yourScore">La tuya puntuación: %s</string>
   <string name="language">Idioma</string>
+  <string name="searchLanguage">Search language</string>
   <string name="allLanguages">Totas las luengas</string>
   <string name="background">Fondo</string>
   <string name="light">Claro</string>

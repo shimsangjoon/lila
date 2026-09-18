@@ -819,6 +819,8 @@ Playing rated games will increase stability.</string>
   </plurals>
   <string name="yourScore">Your score: %s</string>
   <string name="language">Language</string>
+  <string name="searchLanguage">Search language</string>
+  <string name="searchLanguage">Search language</string>
   <string name="allLanguages">All languages</string>
   <string name="background">Background</string>
   <string name="theme">Theme</string>

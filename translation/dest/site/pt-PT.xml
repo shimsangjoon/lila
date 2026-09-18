@@ -816,6 +816,7 @@ análise de computador, sala de chat do jogo e link de partilha.</string>
   </plurals>
   <string name="yourScore">O teu resultado: %s</string>
   <string name="language">Lingua</string>
+  <string name="searchLanguage">Pesquisar idioma</string>
   <string name="allLanguages">Todos os idiomas</string>
   <string name="background">Fundo</string>
   <string name="theme">Tema</string>

@@ -370,6 +370,7 @@
   <string name="anonymous">Qarsoodi</string>
   <string name="yourScore">Dhibcahaaga: %s</string>
   <string name="language">Luqadda</string>
+  <string name="searchLanguage">Search language</string>
   <string name="light">Iftiin</string>
   <string name="dark">Madow</string>
   <string name="usernameAlreadyUsed">Magacan-akoonkan waa la haystaa, fadlan tijaabi mid kale.</string>

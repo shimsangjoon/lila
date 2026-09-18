@@ -819,6 +819,7 @@ Juga partides puntuades per augmentar l\'estabilitat.</string>
   </plurals>
   <string name="yourScore">El seu resultat: %s</string>
   <string name="language">Llengua</string>
+  <string name="searchLanguage">Cerca idioma</string>
   <string name="allLanguages">Tots els idiomes</string>
   <string name="background">Fons</string>
   <string name="theme">Tema</string>

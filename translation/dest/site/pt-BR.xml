@@ -819,6 +819,7 @@
   </plurals>
   <string name="yourScore">Sua pontuação:%s</string>
   <string name="language">Idioma</string>
+  <string name="searchLanguage">Pesquisar idioma</string>
   <string name="allLanguages">Todos os idiomas</string>
   <string name="background">Cor tema</string>
   <string name="theme">Tema</string>

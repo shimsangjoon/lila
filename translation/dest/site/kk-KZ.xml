@@ -755,6 +755,7 @@
   <string name="anonymous">Аноним</string>
   <string name="yourScore">Жетістігіңіз: %s</string>
   <string name="language">Тіл</string>
+  <string name="searchLanguage">Тіл іздеу</string>
   <string name="allLanguages">Барлық тілдер</string>
   <string name="background">Артқы кескін</string>
   <string name="light">Жарық</string>

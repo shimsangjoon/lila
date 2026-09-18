@@ -803,6 +803,7 @@ anailís ríomhaire, comhrá cluiche agus URL inroinnte.</string>
   <string name="anonymous">Anaithnid</string>
   <string name="yourScore">Do scór: %s</string>
   <string name="language">Teanga</string>
+  <string name="searchLanguage">Search language</string>
   <string name="background">Cúlra</string>
   <string name="light">Geal</string>
   <string name="dark">Dorcha</string>

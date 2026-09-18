@@ -804,6 +804,7 @@
   </plurals>
   <string name="yourScore">तुमचे गुण: %s</string>
   <string name="language">भाषा</string>
+  <string name="searchLanguage">Search language</string>
   <string name="allLanguages">सर्व भाषा</string>
   <string name="background">पार्श्वभूमी</string>
   <string name="theme">विषय</string>

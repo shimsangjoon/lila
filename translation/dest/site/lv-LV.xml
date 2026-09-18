@@ -771,6 +771,7 @@
   <string name="anonymous">Anonīms</string>
   <string name="yourScore">Jūsu rezultāts: %s</string>
   <string name="language">Valoda</string>
+  <string name="searchLanguage">Meklēt valodu</string>
   <string name="background">Fons</string>
   <string name="light">Gaišs</string>
   <string name="dark">Tumšs</string>

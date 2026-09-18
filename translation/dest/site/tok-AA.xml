@@ -787,6 +787,7 @@ o musi lon lipu pona. sina wile ala pana e nimi li wile ala e ilo. sitelen esun 
   </plurals>
   <string name="yourScore">nanpa sina: %s</string>
   <string name="language">toki</string>
+  <string name="searchLanguage">Search language</string>
   <string name="allLanguages">toki ale</string>
   <string name="background">sitelen monsi</string>
   <string name="light">walo</string>

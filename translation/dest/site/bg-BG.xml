@@ -792,6 +792,7 @@
   <string name="anonymous">Анонимен</string>
   <string name="yourScore">Резултатът ви: %s</string>
   <string name="language">Език</string>
+  <string name="searchLanguage">Търсене на език</string>
   <string name="allLanguages">Всички езици</string>
   <string name="background">Фон</string>
   <string name="light">Светъл</string>

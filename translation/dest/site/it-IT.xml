@@ -804,6 +804,7 @@ analizzarla con il computer, commentarla in chat, e condividerla tramite un indi
   </plurals>
   <string name="yourScore">Il tuo punteggio: %s</string>
   <string name="language">Lingua</string>
+  <string name="searchLanguage">Cerca lingua</string>
   <string name="allLanguages">Tutte le lingue</string>
   <string name="background">Sfondo</string>
   <string name="theme">Tema</string>

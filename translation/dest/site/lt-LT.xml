@@ -853,6 +853,7 @@ kompiuterinę analizę, partijos pokalbį bei URL dalinimuisi.</string>
   <string name="anonymous">Anonimas</string>
   <string name="yourScore">Jūsų rezultatas: %s</string>
   <string name="language">Kalba</string>
+  <string name="searchLanguage">Ieškoti kalbos</string>
   <string name="allLanguages">Visos kalbos</string>
   <string name="background">Fonas</string>
   <string name="light">Šviesus</string>

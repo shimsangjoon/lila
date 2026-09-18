@@ -820,6 +820,7 @@ Jokatu puntuaziorako balio duten partidak egonkortasuna handitzeko.</string>
   </plurals>
   <string name="yourScore">Zure puntuaketa: %s</string>
   <string name="language">Hizkuntza</string>
+  <string name="searchLanguage">Euskara bilaketa</string>
   <string name="allLanguages">Hizkuntza guztiak</string>
   <string name="background">Atzeko planoa</string>
   <string name="theme">Itxura</string>

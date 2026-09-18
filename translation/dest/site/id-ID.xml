@@ -721,6 +721,7 @@
   <string name="anonymous">Tanpa Nama</string>
   <string name="yourScore">Skor Anda: %s</string>
   <string name="language">Bahasa</string>
+  <string name="searchLanguage">Cari bahasa</string>
   <string name="allLanguages">Semua bahasa</string>
   <string name="background">Latar</string>
   <string name="light">Terang</string>

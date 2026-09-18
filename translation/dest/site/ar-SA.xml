@@ -981,6 +981,7 @@ https://lichess. org/report.</string>
   </plurals>
   <string name="yourScore">نقاطك: %s</string>
   <string name="language">اللغة</string>
+  <string name="searchLanguage">بحث اللغة</string>
   <string name="allLanguages">كل اللغات</string>
   <string name="background">الخلفية</string>
   <string name="theme">المظهر</string>

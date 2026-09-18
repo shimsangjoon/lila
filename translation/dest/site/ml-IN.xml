@@ -748,6 +748,7 @@
   </plurals>
   <string name="yourScore">നിങ്ങളുടെ സ്കോർ %s</string>
   <string name="language">ഭാഷ</string>
+  <string name="searchLanguage">Search language</string>
   <string name="allLanguages">എല്ലാ മൊഴികളും</string>
   <string name="background">പശ്ചാത്തലം</string>
   <string name="light">വെളിച്ചപെട്ട</string>

@@ -852,6 +852,7 @@ računarsku analizu, mogućnost dopisivanja i link za slanje drugima.</string>
   </plurals>
   <string name="yourScore">Vaš rezultat: %s</string>
   <string name="language">Jezik</string>
+  <string name="searchLanguage">Pretraži jezik</string>
   <string name="allLanguages">Svi jezici</string>
   <string name="background">Pozadina</string>
   <string name="theme">Tema</string>

@@ -760,6 +760,7 @@
   </plurals>
   <string name="yourScore">สกอร์ของคุณ: %s</string>
   <string name="language">ภาษา</string>
+  <string name="searchLanguage">ค้นหาภาษา</string>
   <string name="allLanguages">ภาษาทั้งหมด</string>
   <string name="background">พื้นหลัง</string>
   <string name="light">สว่าง</string>

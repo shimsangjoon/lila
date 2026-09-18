@@ -820,6 +820,7 @@ Para incrementar a súa estabilidade tes que xogar máis partidas puntuadas.</st
   </plurals>
   <string name="yourScore">Os teus resultados: %s</string>
   <string name="language">Idioma</string>
+  <string name="searchLanguage">Buscar idioma</string>
   <string name="allLanguages">Todos os idiomas</string>
   <string name="background">Fondo</string>
   <string name="theme">Tema</string>

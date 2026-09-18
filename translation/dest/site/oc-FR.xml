@@ -45,4 +45,5 @@
     <item quantity="other">Disponible dins %s lengas !</item>
   </plurals>
   <string name="language">Lenga</string>
+  <string name="searchLanguage">Search language</string>
 </resources>

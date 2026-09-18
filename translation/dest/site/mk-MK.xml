@@ -706,6 +706,7 @@
   <string name="anonymous">Анонимен</string>
   <string name="yourScore">Вашиот резултат: %s</string>
   <string name="language">Јазик</string>
+  <string name="searchLanguage">Пребарете јазик</string>
   <string name="background">Позадина</string>
   <string name="light">Светло</string>
   <string name="dark">Темно</string>

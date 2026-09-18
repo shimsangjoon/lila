@@ -781,6 +781,7 @@
   </plurals>
   <string name="yourScore">您的得分：%s</string>
   <string name="language">语言</string>
+  <string name="searchLanguage">搜索语言</string>
   <string name="allLanguages">所有语言</string>
   <string name="background">背景</string>
   <string name="theme">主题</string>

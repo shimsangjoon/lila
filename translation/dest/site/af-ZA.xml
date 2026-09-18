@@ -741,6 +741,7 @@ rekenaar analise, kletskamer en deelbare URL te kry.</string>
   <string name="anonymous">Anoniem</string>
   <string name="yourScore">Jou puntetelling: %s</string>
   <string name="language">Taal</string>
+  <string name="searchLanguage">Soek taal</string>
   <string name="allLanguages">Alle tale</string>
   <string name="background">Agtergrond</string>
   <string name="light">Lig</string>

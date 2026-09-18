@@ -665,6 +665,7 @@
   <string name="anonymous">Anonimu</string>
   <string name="yourScore">I risultati: %s</string>
   <string name="language">Lingua</string>
+  <string name="searchLanguage">Search language</string>
   <string name="background">Fondu</string>
   <string name="light">Lume</string>
   <string name="dark">Bughju</string>

@@ -606,6 +606,7 @@
   <string name="anonymous">Anonyme</string>
   <string name="yourScore">Tabula de punctos: %s</string>
   <string name="language">Lingua</string>
+  <string name="searchLanguage">Search language</string>
   <string name="background">Fundo</string>
   <string name="light">Clar</string>
   <string name="dark">Obscur</string>

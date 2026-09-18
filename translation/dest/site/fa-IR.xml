@@ -821,6 +821,7 @@
   </plurals>
   <string name="yourScore">امتیازتان: %s</string>
   <string name="language">زبان</string>
+  <string name="searchLanguage">جستجوی زبان</string>
   <string name="allLanguages">تمام زبان ها</string>
   <string name="background">زمینه</string>
   <string name="theme">پوسته</string>

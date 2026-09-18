@@ -766,6 +766,7 @@
   <string name="anonymous">Anónimu</string>
   <string name="yourScore">La to puntuación: %s</string>
   <string name="language">Llinguaxe</string>
+  <string name="searchLanguage">Búsqueda de idioma</string>
   <string name="allLanguages">Tolos idiomes</string>
   <string name="background">Fondu</string>
   <string name="light">Claro</string>

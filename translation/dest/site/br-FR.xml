@@ -793,6 +793,7 @@
   <string name="anonymous">Dianav</string>
   <string name="yourScore">Ho tisoc\'h: %s</string>
   <string name="language">Yezh</string>
+  <string name="searchLanguage">Search language</string>
   <string name="background">Drekleur</string>
   <string name="light">Sklaer</string>
   <string name="dark">Teñval</string>

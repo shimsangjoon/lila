@@ -820,6 +820,7 @@ Wenn du gewertete Partien spielst, wird die Stabilität erhöht.</string>
   </plurals>
   <string name="yourScore">Punktestand: %s</string>
   <string name="language">Sprache</string>
+  <string name="searchLanguage">Sprache suchen</string>
   <string name="allLanguages">Alle Sprachen</string>
   <string name="background">Hintergrund</string>
   <string name="theme">Thema</string>

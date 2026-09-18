@@ -895,6 +895,7 @@
   </plurals>
   <string name="yourScore">Ваш счёт: %s</string>
   <string name="language">Язык (Language)</string>
+  <string name="searchLanguage">Поиск языка</string>
   <string name="allLanguages">Все языки</string>
   <string name="background">Тема</string>
   <string name="theme">Тема</string>

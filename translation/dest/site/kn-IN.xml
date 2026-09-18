@@ -730,6 +730,7 @@
   <string name="anonymous">ಅನಾಮಿಕ</string>
   <string name="yourScore">ನಿಮ್ಮ ಅಂಕಗಳು: %s</string>
   <string name="language">ಭಾಷೆ</string>
+  <string name="searchLanguage">ಭಾಷೆಯನ್ನು ಹುಡುಕಿ</string>
   <string name="background">ಹಿನ್ನೆಲೆ</string>
   <string name="light">ತಿಳಿಬಣ್ಣ</string>
   <string name="dark">ಗಾಢ ಬಣ್ಣ</string>

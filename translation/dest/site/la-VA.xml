@@ -635,6 +635,7 @@
   <string name="anonymous">Sine nomine</string>
   <string name="yourScore">Status tibi: %s</string>
   <string name="language">Lingua</string>
+  <string name="searchLanguage">Search language</string>
   <string name="background">Scaena</string>
   <string name="light">Albens</string>
   <string name="dark">Niger</string>

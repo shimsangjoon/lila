@@ -728,6 +728,7 @@
   <string name="anonymous">ຜູ້ຫຼິ້ນນິລະນາມ</string>
   <string name="yourScore">ຄະແນນຂອງທ່ານ: %s</string>
   <string name="language">ພາສາ</string>
+  <string name="searchLanguage">ປີກເວົ້າ</string>
   <string name="allLanguages">ທຸກພາສາ</string>
   <string name="background">ພື້ນຫຼັງ</string>
   <string name="light">ແຈ້ງ</string>

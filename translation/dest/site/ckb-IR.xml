@@ -753,6 +753,7 @@
   <string name="anonymous">نەناسراو</string>
   <string name="yourScore">نمرەکەت: %s</string>
   <string name="language">زمان</string>
+  <string name="searchLanguage">Search language</string>
   <string name="allLanguages">هەموو زمانەکان</string>
   <string name="background">پاشبنەما</string>
   <string name="light">روناکی</string>

@@ -462,6 +462,7 @@ kompjûteranalyze, partijpetear en dielbere URL te krijen.</string>
     <item quantity="other">Beskikber yn %s tale!</item>
   </plurals>
   <string name="language">Taal</string>
+  <string name="searchLanguage">Search language</string>
   <string name="background">Achtergrûn</string>
   <string name="light">Ljocht</string>
   <string name="dark">Donker</string>

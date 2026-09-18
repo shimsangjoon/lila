@@ -721,6 +721,7 @@
   <string name="anonymous">Аноним</string>
   <string name="yourScore">Дур рикӀкӀин: %s</string>
   <string name="language">МацӀ</string>
+  <string name="searchLanguage">Search language</string>
   <string name="allLanguages">Киналго мацӀал</string>
   <string name="background">НахъабакӀ</string>
   <string name="light">КанчӀаб</string>

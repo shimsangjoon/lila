@@ -715,6 +715,7 @@
   <string name="anonymous">अज्ञात</string>
   <string name="yourScore">आपका स्कोर: %s</string>
   <string name="language">भाषा</string>
+  <string name="searchLanguage">भाषा खोजें</string>
   <string name="background">पृष्ठभूमि</string>
   <string name="light">हल्का</string>
   <string name="dark">काला</string>

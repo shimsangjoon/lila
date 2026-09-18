@@ -788,6 +788,7 @@ Jelszavad megváltoztatásához kattints az üzenetben lévő linkre.</string>
   <string name="anonymous">Névtelen</string>
   <string name="yourScore">A te eredményed: %s</string>
   <string name="language">Nyelv</string>
+  <string name="searchLanguage">Nyelv keresése</string>
   <string name="allLanguages">Minden nyelv</string>
   <string name="background">Háttér</string>
   <string name="light">Világos</string>

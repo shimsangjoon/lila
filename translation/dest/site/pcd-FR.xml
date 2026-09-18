@@ -819,6 +819,7 @@
   </plurals>
   <string name="yourScore">Votre score : %s</string>
   <string name="language">Langue</string>
+  <string name="searchLanguage">Search language</string>
   <string name="allLanguages">Toutes les langues</string>
   <string name="background">Arrière-plan</string>
   <string name="theme">Thème</string>

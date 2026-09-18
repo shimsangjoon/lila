@@ -746,6 +746,7 @@
   <string name="anonymous">অজ্ঞাত</string>
   <string name="yourScore">আপনার স্কোর: %s</string>
   <string name="language">ভাষা</string>
+  <string name="searchLanguage">ভাষা অনুসন্ধান</string>
   <string name="background">পটভূমি</string>
   <string name="light">আলো</string>
   <string name="dark">অন্ধকার</string>

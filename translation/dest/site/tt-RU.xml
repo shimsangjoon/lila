@@ -644,6 +644,7 @@
   <string name="anonymous">Билгесез</string>
   <string name="yourScore">Синен бәяләү %s</string>
   <string name="language">Тел</string>
+  <string name="searchLanguage">Search language</string>
   <string name="allLanguages">Барлык телләр</string>
   <string name="background">Җирлек</string>
   <string name="light">Ачык</string>

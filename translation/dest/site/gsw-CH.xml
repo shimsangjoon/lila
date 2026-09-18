@@ -816,6 +816,7 @@ gits nöd und es isch nie g\'wertet.</string>
   </plurals>
   <string name="yourScore">Din Punkteschtand: %s</string>
   <string name="language">Schprach</string>
+  <string name="searchLanguage">Search language</string>
   <string name="allLanguages">Alli Schprache</string>
   <string name="background">Hindergrund</string>
   <string name="theme">Farbschema</string>

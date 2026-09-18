@@ -785,6 +785,7 @@
   </plurals>
   <string name="yourScore">Dina poäng: %s</string>
   <string name="language">Språk</string>
+  <string name="searchLanguage">Sök språk</string>
   <string name="allLanguages">Alla språk</string>
   <string name="background">Bakgrund</string>
   <string name="theme">Tema</string>

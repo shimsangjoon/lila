@@ -820,6 +820,7 @@ Reytingli oʻyinlar o\'ynasangiz reyting barqarorligi oshadi.</string>
   </plurals>
   <string name="yourScore">Hisob: %s</string>
   <string name="language">Til</string>
+  <string name="searchLanguage">Search language</string>
   <string name="allLanguages">Barcha tillar</string>
   <string name="background">Orqa fon</string>
   <string name="theme">Tema</string>

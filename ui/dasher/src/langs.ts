@@ -34,7 +34,7 @@ export class LangsCtrl extends PaneCtrl {
           hl(
             'input',
             {
-              attrs: { type: 'search', name: 'search', placeholder: i18n.site.searchLanguage },
+              attrs: { class: 'form-control', type: 'search', name: 'search', placeholder: i18n.site.searchLanguage },
               hook: bindNonPassive('input', (e: Event) => {
                 e.preventDefault();
                 const val = (e.target as HTMLInputElement).value;

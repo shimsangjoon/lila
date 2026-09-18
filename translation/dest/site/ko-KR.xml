@@ -781,6 +781,7 @@
   </plurals>
   <string name="yourScore">당신의 점수는 %s입니다.</string>
   <string name="language">언어</string>
+  <string name="searchLanguage">언어 검색</string>
   <string name="allLanguages">모든 언어</string>
   <string name="background">배경</string>
   <string name="theme">테마</string>

@@ -661,6 +661,7 @@
   <string name="anonymous">Нэргүй</string>
   <string name="yourScore">Таны оноо: %s</string>
   <string name="language">Хэлний сонголт</string>
+  <string name="searchLanguage">Search language</string>
   <string name="background">Дэвсгэр</string>
   <string name="light">Гэгээтэй</string>
   <string name="dark">Хар</string>

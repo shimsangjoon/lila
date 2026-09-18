@@ -816,6 +816,7 @@
   </plurals>
   <string name="yourScore">Η βαθμολογία σας: %s</string>
   <string name="language">Γλώσσα</string>
+  <string name="searchLanguage">Αναζήτηση γλώσσας</string>
   <string name="allLanguages">Οποιαδήποτε γλώσσα</string>
   <string name="background">Φόντο</string>
   <string name="theme">Εμφάνιση</string>

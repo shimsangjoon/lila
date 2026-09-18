@@ -706,6 +706,7 @@
   <string name="anonymous">ანონიმური</string>
   <string name="yourScore">თქვენი ქულა: %s</string>
   <string name="language">ენა</string>
+  <string name="searchLanguage">ენის ძიება</string>
   <string name="background">ფონი</string>
   <string name="light">ღია</string>
   <string name="dark">მუქი</string>

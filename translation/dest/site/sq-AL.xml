@@ -796,6 +796,7 @@ loje dhe URL për ta ndarë me të tjerë.</string>
   </plurals>
   <string name="yourScore">Rezultati juaj: %s</string>
   <string name="language">Gjuha</string>
+  <string name="searchLanguage">Gjuhë</string>
   <string name="allLanguages">Krejt gjuhët</string>
   <string name="background">Sfond</string>
   <string name="theme">Temë grafike</string>

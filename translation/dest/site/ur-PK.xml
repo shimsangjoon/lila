@@ -620,6 +620,7 @@
   <string name="anonymous">گمنام</string>
   <string name="yourScore">اپ کا سکور: %s</string>
   <string name="language">زبان</string>
+  <string name="searchLanguage">زبان تلاش کریں</string>
   <string name="background">پس مظر</string>
   <string name="light">لائٹ</string>
   <string name="dark">ڈارک</string>

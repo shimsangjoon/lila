@@ -815,6 +815,7 @@ Puanlı oyunlar oynamak istikrarınızı artıracaktır.</string>
   </plurals>
   <string name="yourScore">Puan durumu: %s</string>
   <string name="language">Dil</string>
+  <string name="searchLanguage">Dil ara</string>
   <string name="allLanguages">Tüm diller</string>
   <string name="background">Arkaplan</string>
   <string name="theme">Tema</string>

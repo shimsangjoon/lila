@@ -767,6 +767,7 @@
   </plurals>
   <string name="yourScore">您的分數:%s</string>
   <string name="language">語言</string>
+  <string name="searchLanguage">搜尋語言</string>
   <string name="allLanguages">所有語言</string>
   <string name="background">背景</string>
   <string name="theme">主題背景</string>

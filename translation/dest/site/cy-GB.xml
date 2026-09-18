@@ -617,6 +617,7 @@
   <string name="anonymous">DiEnw</string>
   <string name="yourScore">Eich sgor:%s</string>
   <string name="language">Iaith</string>
+  <string name="searchLanguage">Chwilio am iaith</string>
   <string name="allLanguages">Pob iaith</string>
   <string name="background">Cefndir</string>
   <string name="light">Golau</string>

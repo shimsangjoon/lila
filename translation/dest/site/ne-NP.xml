@@ -658,6 +658,7 @@
   <string name="anonymous">अज्ञात</string>
   <string name="yourScore">तपाइको प्राप्तांक: %s</string>
   <string name="language">भाषा</string>
+  <string name="searchLanguage">Search language</string>
   <string name="background">पृष्ठभूमि</string>
   <string name="light">प्रकाश</string>
   <string name="dark">गाढा</string>

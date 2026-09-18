@@ -766,6 +766,7 @@
   <string name="anonymous">Nafnlaus</string>
   <string name="yourScore">Stigaskor ykkar: %s</string>
   <string name="language">Tungumál</string>
+  <string name="searchLanguage">Leita máli</string>
   <string name="allLanguages">Öll tungumál</string>
   <string name="background">Bakgrunnur</string>
   <string name="light">Ljós</string>

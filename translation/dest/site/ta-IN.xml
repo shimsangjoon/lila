@@ -750,6 +750,7 @@
   <string name="anonymous">பெயரில்லா</string>
   <string name="yourScore">உங்கள் மதிப்பெண்: %s</string>
   <string name="language">மொழி</string>
+  <string name="searchLanguage">மொழியைத் தேடுக</string>
   <string name="allLanguages">அனைத்து மொழிகளும்</string>
   <string name="background">பின்னணி</string>
   <string name="light">வெளிர்</string>

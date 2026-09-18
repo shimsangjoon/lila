@@ -819,6 +819,7 @@ Spill ratede partier for å øke stabiliteten.</string>
   </plurals>
   <string name="yourScore">Din poengsum: %s</string>
   <string name="language">Språk</string>
+  <string name="searchLanguage">Search language</string>
   <string name="allLanguages">Alle språk</string>
   <string name="background">Bakgrunn</string>
   <string name="theme">Tema</string>

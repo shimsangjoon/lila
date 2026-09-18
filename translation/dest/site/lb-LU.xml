@@ -781,6 +781,7 @@
   </plurals>
   <string name="yourScore">Däi Score: %s</string>
   <string name="language">Sprooch</string>
+  <string name="searchLanguage">Search language</string>
   <string name="allLanguages">All Sproochen</string>
   <string name="background">Hannergrond</string>
   <string name="light">Hell</string>

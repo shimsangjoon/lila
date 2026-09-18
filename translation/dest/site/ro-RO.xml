@@ -859,6 +859,7 @@ Jucarea de jocuri oficiale va crește stabilitatea.</string>
   </plurals>
   <string name="yourScore">Scorul tău: %s</string>
   <string name="language">Limbă</string>
+  <string name="searchLanguage">Căutare limbă</string>
   <string name="allLanguages">Orice limbă</string>
   <string name="background">Fundal</string>
   <string name="theme">Tema</string>

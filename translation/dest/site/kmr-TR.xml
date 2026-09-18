@@ -793,6 +793,7 @@
   <string name="anonymous">Anonîm</string>
   <string name="yourScore">Skora te: %s</string>
   <string name="language">Ziman</string>
+  <string name="searchLanguage">Search language</string>
   <string name="allLanguages">Hemû ziman</string>
   <string name="background">Piştzemîn</string>
   <string name="light">Ronak</string>

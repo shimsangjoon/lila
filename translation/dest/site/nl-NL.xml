@@ -820,6 +820,7 @@ Spelen met rating verhoogt de stabiliteit.</string>
   </plurals>
   <string name="yourScore">Uw score: %s</string>
   <string name="language">Taal</string>
+  <string name="searchLanguage">Zoek taal</string>
   <string name="allLanguages">Alle talen</string>
   <string name="background">Achtergrond</string>
   <string name="theme">Thema</string>
